@@ -1,1 +1,1 @@
-web: gunicorn app:app
+woker: python bot.py
